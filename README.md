@@ -1,5 +1,6 @@
 Hubbub
 ======
+Parth Vijayvargiya
 
 Issues get messy, Hubbub keeps you organized.
 
